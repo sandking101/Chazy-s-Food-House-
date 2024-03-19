@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chazy's Food House</title>
+</head>
+<body>
+    <h1>Welcome to Chazy's Food House!</h1>
+    <p>We serve delicious and healthy food for you.</p>
+    <img src="images/chazy-logo.jpg" alt="Chazy's Food House logo">
+    <ul>
+        <li><a href="menu.html">Menu</a></li>
+        <li><a href="location.html">Location</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+    </ul>
+</body>
+</html>
